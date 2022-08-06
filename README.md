@@ -33,3 +33,20 @@ teste
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,oliverhard.github.io)](https://github.com/oliverhard/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=oliverhard-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=oliverhard-github-username&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=oliverhard-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=oliverhard-github-username&color=red)
+![](https://komarev.com/ghpvc/?username=oliverhard-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=oliverhard-github-username&color=yellow)
+![](https://komarev.com/ghpvc/?username=oliverhard-github-username&color=orange)
+![](https://komarev.com/ghpvc/?username=oliverhard-github-username&color=grey)
+
+</div>
+  <br><a href="https://www.youtube.com/channel/UCSawC0irKSG8W05zahr1i9w" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/caldasflamejantes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ellen-maria-da-silva-caldas-4824b01a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  
+  <a href="https://linkedin.com/in/oliver-tarqui-68b854243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logo=linkedin&logoColor=white" target="_blank"></a>
+
