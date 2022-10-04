@@ -3,7 +3,6 @@ teste
 
 <div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverhard&show_icons=true&theme=synthwave)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverhard&show_icons=true&theme=tokyonight)
@@ -24,10 +23,27 @@ teste
 <div/>
 
 
-![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=oliverhard&show_icons=true&theme=synthwave)
+![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=oliverhard&show_icons=true&theme=dark)
+
+
+
 ![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=oliverhard&show_icons=true&theme=cobalt)
+
+
+
 ![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=oliverhard&show_icons=true&theme=onedark)
+
+
 ![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=oliverhard&show_icons=true&theme=cobalt2)
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverhard&show_icons=true&theme=dark)
+
+
+
+
 ![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=oliverhard&show_icons=true&theme=monokai)
 ![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=oliverhard&show_icons=true&theme=prussian)
 ![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=oliverhard&show_icons=true&theme=nightowl)
