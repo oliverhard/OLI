@@ -1,11 +1,28 @@
 # OLI
 teste
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverhard)](https://github.com/oliverhard/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverhard&show_icons=true&theme=highcontrast)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+<div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverhard&show_icons=true&theme=synthwave)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverhard&show_icons=true&theme=tokyonight)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 <h1 highcontrast,synthwave  cobalt onedark tokyonight h1>
+
+
+<div/>
+
+<div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverhard&show_icons=true&theme=radical)
+
+
+<div/>
+
 
 ![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=oliverhard&show_icons=true&theme=synthwave)
 ![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=oliverhard&show_icons=true&theme=cobalt)
